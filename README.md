@@ -1,7 +1,7 @@
 
 
 <div align="center" class="fade-in">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=#00ffff&center=true&vCenter=true&width=1200&lines=Hi+there+I'm+SuryaPrakash+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Python+Programmer+and+Front-End+Developer;Let's+build+something+awesome+🌟" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=33fcff&center=true&vCenter=true&width=1200&lines=Hi+there+I'm+SuryaPrakash+👋;Welcome+to+my+GitHub+Profile!;I'm+a+Python+Programmer+and+Front-End+Developer;Let's+build+something+awesome+🌟" alt="Typing animation" />
 </div>
 
 ---
